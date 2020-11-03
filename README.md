@@ -1,2 +1,3 @@
-# vue-crypto-price-widget-v2
+# vue-crypto-price-widget
+
  Crypto price widget made with Vue
