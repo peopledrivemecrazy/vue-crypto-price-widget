@@ -1,0 +1,17 @@
+{
+  "name": "vue-crypto-price-widget-v2",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "start": "serve dist",
+    "clean":"yarn build && yarn start"
+  },
+  "dependencies": {
+    "vue": "^3.0.2"
+  },
+  "devDependencies": {
+    "vite": "^1.0.0-rc.8",
+    "@vue/compiler-sfc": "^3.0.2"
+  }
+}
