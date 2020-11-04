@@ -8,10 +8,9 @@ A Vue implementation of my earlier [Svelte version](https://github.com/peopledri
 | Metrics              | Vue                                                     | Svelte                            |
 |----------------------|---------------------------------------------------------|-----------------------------------|
 | Website              | [https://vue-widget.anoram.com/](https://vue-widget.anoram.com/)                                                 | [https://widget.anoram.com](https://widget.anoram.com)                               |
-| Bundle Size in KB    | 17.5                                                    | 4.5                               |
+| Bundle Size in ~KB    | 17.5                                                    | 4.5                               |
 | Developer experience | not easy to use .includes()  alternative way .indexOf() | no issue using javascript methods |
 | Bundler              | vite+webpack                                            | rollup                            |
-
 
 
 ## Local development and testing
