@@ -13,7 +13,7 @@
   </nav>
   <main>
     <div class="flex-grid">
-      <div v-if="feed.length==0">loading</div>
+      <div v-if="feed.length==0">loading...</div>
       <div v-else v-for="(item, index) in feed" :key="index" class="col">
         <div class="card">
           <div class="card-text">
